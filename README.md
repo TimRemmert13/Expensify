@@ -1,5 +1,5 @@
 <h1>Expensify</h1>
-An expense tracking and management web application try it now at: <a href="https://remmert-expensify.herokuapp.com"> </a>
+An expense tracking and management web application <a href="https://remmert-expensify.herokuapp.com">Try it Now!</a>
 <h2>Features</h2>
 <ul>
 <li>
