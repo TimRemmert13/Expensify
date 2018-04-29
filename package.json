@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "expensify",
+=======
+  "name": "react-boilerplate",
+>>>>>>> a2ab87e2b90195a869bcd9153e891e9d0b10bf0a
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -30,7 +34,10 @@
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
     "css-loader": "^0.28.11",
+<<<<<<< HEAD
     "expensify": "^0.2.0",
+=======
+>>>>>>> a2ab87e2b90195a869bcd9153e891e9d0b10bf0a
     "express": "^4.16.3",
     "firebase": "^4.12.1",
     "history": "^4.7.2",
